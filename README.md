@@ -1,4 +1,4 @@
-# ![download](https://github.com/Tofu82/dicesimulator/assets/153694969/e2163b55-3120-4e54-b959-6dc11a83989b) Dice simulator
+#![download-removebg-preview (1)](https://github.com/Tofu82/dicesimulator/assets/153694969/75399759-f528-4776-b98f-080d0ac3896e) Dice simulator
 Simple dice simulator used for math statistical probability (or whatever you want to use it for) 
 
 ## Features:
